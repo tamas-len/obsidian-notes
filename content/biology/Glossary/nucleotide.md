@@ -1,7 +1,7 @@
-pentose sugar
-	with phosphate group attached
-	on of the four nitrogenous [[bases]]
-shape is important
+- pentose sugar
+	- with phosphate group attached
+	- one of the four nitrogenous [[Bases|bases]]
+- shape is important
 
 what kind of pentose sugar is dependent on whether the nucleotide is in [[DNA]] or [[RNA]]
 
