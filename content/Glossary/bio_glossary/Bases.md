@@ -9,4 +9,4 @@
 > DNA - Thymine
 > RNA - Uracil
 
-![[Pasted image 20250802174611.png]]
+![[purine_pyrimidine_bases.png]]

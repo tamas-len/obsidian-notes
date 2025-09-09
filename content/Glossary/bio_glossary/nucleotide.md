@@ -5,6 +5,6 @@
 
 what kind of pentose sugar is dependent on whether the nucleotide is in [[DNA]] or [[RNA]]
 
-![[Pasted image 20250802163116.png]]
+![[nucleotide.png]]
 
 lot of nucleotides together creates a polymer of either [[DNA]] or [[RNA]]
