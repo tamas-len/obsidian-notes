@@ -1,0 +1,23 @@
+### Interesting tools to use
+
+Letterly
+NotebookLM
+
+### Ideas
+
+Plato says: knowledge = "justified true belief"
+   --> Gettier counter examples
+
+> answer the questions, but also **question the answers**
+
+### Branches of Philosophy
+
+| METAPHYSICS                 | What is there?                             |
+| --------------------------- | ------------------------------------------ |
+| EPISTEMOLOGY                | What can we know?                          |
+| ETHICS                      | What is the right thing to do?             |
+| AESTHETICS                  | What is beauty?                            |
+| POLITICAL PHILOSOPHY        | What is justice?<br>Who should have power? |
+| EXISTENTIALISM              | What is the meaning of life?               |
+| ENVIRONMENTAL<br>PHILOSOPHY | -                                          |
+| PHILOSOPHY<br>OF TECHNOLOGY | -                                          |
