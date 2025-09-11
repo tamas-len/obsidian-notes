@@ -1,9 +1,36 @@
+### Skills - 3Es
+---
+a) EXTRACT
+b) EXPLAIN
+c) EVALUATE
+
+e.g:
+Extract - Gemini AI --> human knowledge --> what is knowledge?
+Explain - ideas, arguments of philospher's ideas
+Evaluate - critical analysis, evaluation of the ideas/argument
+
+### How to do philosophy
+
+![[how_to_do_philo.png]]
+
+### Arguments
+---
+--> Humans are mortal.                    --> premises (sometimes not written -> hidden premises)
+--> Socrates is human.
 
 ---
-last class notes from sept 10 NEEDED HERE
+--> Therefore, Socrates is mortal.     --> Conclusion
 
----
-sept 11
+fallacy == fake argument
+e.g. ad hominem --> attacks the person, not the idea 
+(if xy said that, it can't be true!)
+premises: statements before the conclusion (conditions)
+
+symbolic logic (maths)
+p, q
+p -> q
+
+suspended judgement
 
 Meditation
 	Buddhist (Zen - Buddhism)
@@ -32,5 +59,5 @@ Plato: through reason -> reach perfect ideas (e.g. triangle)
 Language: symbolic system
 dog - symbol for the idea of a dog
 
-WITGENSTEIN - linguistic turn
+WITGENSTEIN (analytic tradition) - linguistic turn
 not post-modernistic but ***analytic philosophy***
