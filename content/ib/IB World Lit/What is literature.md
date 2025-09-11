@@ -1,3 +1,26 @@
 Readings: 
 	fragments of "The Savage Detectives" by Roberto Bolano, 
 	"The Circle of Reason" by Amitav Ghosh
+
+
+#### The Savage Detectives
+- Description -> subjective
+- Author =/= Narrator (voice, entity) --> tells us the story
+- casual -> defining the narrator (character)
+- structure: dates
+	- log
+	- diary
+
+#### The Circle of Reason
+- storytelling
+	- action --> consequences
+	- description
+- use of comparison
+- structure - chapter 1
+- use of dialogue
+	- "Alive"
+	- "Direct"
+- use of past
+	- action that has happened
+- use of words in the original language
+	- setting --> culture
