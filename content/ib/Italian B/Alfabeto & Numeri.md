@@ -3,7 +3,7 @@
 ---
 
 > [!warning]
-> in desperate need of formatting
+> in desperate need of formatting, basically first few lesson notes dump
 
 ---
 
