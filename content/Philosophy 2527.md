@@ -14,6 +14,10 @@ In my notes on this website you can find reworked handouts for better understand
 
 done so far:
 
+## 4. PERSONHOOD
+
+[[4.1 Self-consciousness]]
+
 ## 6. FREEDOM
 
 [[6.1 Freedom and Determinism]]\
