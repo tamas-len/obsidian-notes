@@ -1,6 +1,6 @@
 ---
 created: 2025-11-13
-last-modified: 2025-11-13
+last-modified: 2025-11-25
 ---
 ## Thetis
 - mother of Achilles
@@ -26,7 +26,7 @@ last-modified: 2025-11-13
 
 **bird**: free, peaceful, harmless
 **Albatross** -> allusion, crucifixion of Christ, to kill an Albatross
-<insert here the explanation of Albatross, the poem, and the punishment to wear an albatross --> or make another note and refer to that page>
+<insert here the explanation of Albatross, the poem, and the punishment to wear an albatross -->  or make another note and refer to that page>
 **snake**: dangerous, sly
 **carnivore**: predator, killer
 **sea animals**: home, a safe refuge

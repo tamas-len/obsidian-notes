@@ -1,6 +1,6 @@
 ---
 created: 2025-11-17
-last-modified: 2025-11-17
+last-modified: 2025-11-25
 ---
 "Why we need to keep talking about 'rape culture'" by Jessica Valenti
 Valenti's techniques
