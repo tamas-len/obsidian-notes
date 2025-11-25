@@ -24,11 +24,11 @@ last-modified: 2025-11-25
 > [!tip] Feeling Stuck?
 > When you find yourself grabbing onto one image, start going over every stanza one-by-one
 
-**bird**: free, peaceful, harmless
-**Albatross** -> allusion, crucifixion of Christ, to kill an Albatross
-<insert here the explanation of Albatross, the poem, and the punishment to wear an albatross -->  or make another note and refer to that page>
-**snake**: dangerous, sly
-**carnivore**: predator, killer
-**sea animals**: home, a safe refuge
-**gross, unpopular**: undesirable animals
-**wind**: formless, non-living, invisible force
+**bird**: free, peaceful, harmless\
+**Albatross** -> allusion, crucifixion of Christ, to kill an Albatross\
+<insert here the explanation of Albatross, the poem, and the punishment to wear an albatross -->  or make another note and refer to that page>\
+**snake**: dangerous, sly\
+**carnivore**: predator, killer\
+**sea animals**: home, a safe refuge\
+**gross, unpopular**: undesirable animals\
+**wind**: formless, non-living, invisible force\
