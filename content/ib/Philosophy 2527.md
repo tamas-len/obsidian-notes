@@ -2,8 +2,7 @@
 created: 2025-11-25
 last-modified: 2025-11-25
 cssclasses:
-  - pen-red
 ---
-Log in to [this website][https://sites.google.com/uwcad.it/philosophy/] with your uwcad account
+Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account
 USE the website --> tips, examples, guides, handuouts
 In my notes on this website you can find reworked handouts for better understanding

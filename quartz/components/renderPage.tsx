@@ -231,6 +231,10 @@ export function renderPage(
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
+  /*const cssclasses = componentData.fileData.frontmatter?.cssclasses ?? [];
+  const extraClasses = Array.isArray(cssclasses)
+    ? cssclasses.join(" ")
+    : cssclasses;*/
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
@@ -238,8 +242,8 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
-              <div class="page-header">
+            <div class="center" /*</Body>className={extraClasses}*/>
+              <div class="page-header" >
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
                     <HeaderComponent {...componentData} />
