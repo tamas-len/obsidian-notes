@@ -17,3 +17,4 @@ done so far:\
 ## 6. FREEDOM
 
 [[6.1 Freedom and Determinism]]
+[[6.3 Existential Angst]]
