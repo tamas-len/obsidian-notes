@@ -1,1 +1,0 @@
-using the codes in DNA to synthesise a protein

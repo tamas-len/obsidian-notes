@@ -1,4 +1,3 @@
-
 | Bases in DNA | Bases in RNA |
 | ------------ | ------------ |
 | Adenine      | Adenine      |

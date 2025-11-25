@@ -1,1 +1,0 @@
-Think of it as a long molecule, made of [[nucleotide]]s

@@ -1,1 +1,0 @@
-parallel in opposite directions

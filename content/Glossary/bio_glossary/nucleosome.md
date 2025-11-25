@@ -1,1 +1,0 @@
-[[DNA]] wrapped twice around a core of **8 [[histone protein]]s** (octomer of [[histone protein]]s)

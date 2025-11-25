@@ -1,1 +1,0 @@
-each resulting copy is made of one parent strand and one new strand
