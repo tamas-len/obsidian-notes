@@ -38,6 +38,12 @@ export default (() => {
 
     return (
       <head>
+        <script async src="https://plausible.io/js/pa-ebweuXkuoFC_-I0Xm-lvM.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
+
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
