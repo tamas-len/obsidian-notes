@@ -1,5 +1,5 @@
 ---
 title: Home
 ---
-Home site
+Home page
 Work in progress
