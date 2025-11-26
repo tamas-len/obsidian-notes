@@ -290,7 +290,7 @@ export function renderPage(
                         var s2 = s1.substring(15);
 
                         // convert URL path to content file path
-                        const filePath = "content" + path + ".md";
+                        const filePath = "content" + var2 + ".md";
 
                         const editUrl = "https://github.com/" + githubUser + "/" + repoName +
                           "/edit/" + branch + "/" + filePath;
