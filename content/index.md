@@ -14,7 +14,7 @@ Work in progress\
 
 Other Notes, “under construction”
 
-[[Biology 2527]] \[canceled btw, I dropped bio]
+[[Biology 2527]] \[canceled btw, I dropped bio]\
 [[English 2527]]
 
 i also plan doing [[World Lit 2527|world lit notes]], digitalizing the boards and making some sense out of them
