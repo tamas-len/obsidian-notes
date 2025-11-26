@@ -285,6 +285,10 @@ export function renderPage(
                         const repoName = "obsidian-notes";
                         const branch = "main";
 
+                        //strip obsidian-notes/ from the beginning of path
+                        var s1 = path;
+                        var s2 = s1.substring(15);
+
                         // convert URL path to content file path
                         const filePath = "content" + path + ".md";
 
