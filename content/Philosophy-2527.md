@@ -16,16 +16,23 @@ done so far:
 
 ## EXAM TIPS
 
-[[Paper 1 Section A]]
+[[Paper-1-Section-A]]
 
 ## 4. PERSONHOOD
 
-[[4.1 Self-consciousness]] \[DONE]\
-[[4.2 Agency]] // to be reworked, only handout included\
-[[4.3 Moral responsibility]] // to be reworked, only handout included
+[[4.1-Self-consciousness]] \[DONE]\
+[[4.2-Agency]] // to be reworked, only handout included\
+[[4.3-Moral-responsibility]] // to be reworked, only handout included
 
 ## 6. FREEDOM
 
-[[6.1 Freedom and Determinism]] \[DONE]\
+[[6.1-Freedom-and-Determinism]] \[DONE]\
 6.2 (I think we either skipped 6.2 or I was looking at thermal baths in the area)\
-[[6.3 Existential Angst]] \[DONE]
+[[6.3-Existential-Angst]] \[DONE]
+
+
+
+to do:\
+
+remake the core theme revision document\
+remake the revision table, organize into notes, have a map for it
