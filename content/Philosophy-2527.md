@@ -14,6 +14,10 @@ In my notes on this website you can find reworked handouts for better understand
 
 done so far:
 
+## EXAM TIPS
+
+[[Paper 1 Section A]]
+
 ## 4. PERSONHOOD
 
 [[4.1 Self-consciousness]] \[DONE]\
