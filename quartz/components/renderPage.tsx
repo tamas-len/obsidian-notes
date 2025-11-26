@@ -254,6 +254,50 @@ export function renderPage(
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
+                {/* Edit on GitHub button */}
+                <a
+                  id="edit-button"
+                  href="#"
+                  style={{
+                    position: "fixed",
+                    bottom: "20px",
+                    right: "20px",
+                    background: "#4c8bf5",
+                    color: "white",
+                    padding: "10px 14px",
+                    borderRadius: "6px",
+                    textDecoration: "none",
+                    fontSize: "14px",
+                    zIndex: 9999,
+                  }}
+                >
+                  Edit this note
+                </a>
+
+                <script
+                  dangerouslySetInnerHTML={{
+                    __html: `
+                      document.addEventListener("DOMContentLoaded", () => {
+                        const path = window.location.pathname.replace(/\\/$/, "");
+                        if (!path) return;
+
+                        const githubUser = "tamas-len";
+                        const repoName = "obsidian-notes";
+                        const branch = "main";
+
+                        // convert URL path to content file path
+                        const filePath = "content" + path + ".md";
+
+                        const editUrl = "https://github.com/" + githubUser + "/" + repoName +
+                          "/edit/" + branch + "/" + filePath;
+
+                        const btn = document.getElementById("edit-button");
+                        btn.href = editUrl;
+                      });
+                    `,
+                  }}
+                />
+
               </div>
               <Content {...componentData} />
               <hr />
