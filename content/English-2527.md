@@ -28,4 +28,4 @@ What [[global issue]] does each of these works comment on?
 
 ### Essay Writing
 
-[[essay]]
+[[eng_a_essay|Essay Tips for English A]]

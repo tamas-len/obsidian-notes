@@ -6,7 +6,7 @@ last-modified: 2025-11-27
 
 stimulus → identify philosophical issue\
 
-- write essay
+- write [[philo_essay|essay]]
 - *explain* philosophical theories
 - *evaluate* critically
 

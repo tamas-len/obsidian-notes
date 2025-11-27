@@ -17,6 +17,7 @@ done so far:
 ## EXAM TIPS
 
 [[Paper-1-Section-A]]
+[[philo_essay|Essay Structure]]
 
 ## 4. PERSONHOOD
 

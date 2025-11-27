@@ -2,6 +2,9 @@
 created: 2025-11-27
 last-modified: 2025-11-27
 ---
+> [!warning] warning
+> this note is a stub needs expanding
+
 broad –> specific\
 broad: ideas anyone can accept - less objectionable\
 e.g.: carol ann duffy’s mrs. sisyphus is based on the greek myth of sisyphus\
