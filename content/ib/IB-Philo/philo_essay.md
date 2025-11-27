@@ -1,6 +1,7 @@
 ---
 created: 2025-11-27
 last-modified: 2025-11-27
+title: Philosophy Essay Structure
 ---
 
 “With **explicit reference to the stimulus** and your own knowledge, discuss a philosophical issue related to the question of **what it means to be human.**”
@@ -25,5 +26,14 @@ last-modified: 2025-11-27
 
 > [!tip] Remember
 > think meta
+
+
+> [!tip] Idea
+> don’t always argue what you believe but something surprising, e.g. argue against democracy
+
+
+> [!success] Title
+> never say ‘I believe …’, say: ‘I argue …’
+
 
 #### Context

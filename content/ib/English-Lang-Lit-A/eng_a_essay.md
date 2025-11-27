@@ -1,6 +1,7 @@
 ---
 created: 2025-11-27
 last-modified: 2025-11-27
+title: English A Essay
 ---
 > [!warning] warning
 > this note is a stub needs expanding
