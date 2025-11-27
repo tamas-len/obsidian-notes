@@ -25,3 +25,5 @@ P - Point - the first sentence of a paragraph states the point of the paragraph
 E - Evidence/Example - in literature, usually a quote
 E/A - Explanation/Analysis
 L/R - Link to thesis / Reader’s reaction
+
+![[structure_of_essay.png]]
