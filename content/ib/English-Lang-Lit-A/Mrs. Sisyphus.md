@@ -30,3 +30,5 @@ at the end she is silenced, future looks bleak
 structure\
 first part of the poem has some structure –> quintain\
 the middle part is a free verse (all of her poems so far were free verse)
+
+insult poem
