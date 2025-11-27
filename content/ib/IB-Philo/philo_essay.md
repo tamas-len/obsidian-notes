@@ -3,6 +3,8 @@ created: 2025-11-27
 last-modified: 2025-11-27
 title: Philosophy Essay Structure
 ---
+> [!warning] warning
+> this note is a stub needs expanding
 
 “With **explicit reference to the stimulus** and your own knowledge, discuss a philosophical issue related to the question of **what it means to be human.**”
 # Introduction

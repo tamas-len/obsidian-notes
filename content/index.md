@@ -10,7 +10,7 @@ Work in progress\
 > [[Philosophy-2527|All my philosophy notes/reworked handouts for better understanding]]
 
 
-
+[[Philosophy-2527]]
 
 Other Notes, “under construction”
 

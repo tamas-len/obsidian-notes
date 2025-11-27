@@ -2,6 +2,9 @@
 created: 2025-11-26
 last-modified: 2025-11-27
 ---
+> [!warning] warning
+> this note is a stub needs expanding
+
 ### Aims
 
 stimulus → identify philosophical issue\
