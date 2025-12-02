@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2025-11-27
+last-modified: 2025-12-02
 ---
 ### Carol Ann Duffy
 
@@ -8,7 +8,8 @@ last-modified: 2025-11-27
 [[Queen-Herod]]\
 [[Thetis]]\
 [[Mrs. Sisyphus]]\
-[[Mrs. Darwin]]
+[[Mrs. Darwin]]\
+[[Mrs. Midas]]
 
 What [[global issue]] does each of these works comment on?
 - gender roles and expectations
