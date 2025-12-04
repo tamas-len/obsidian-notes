@@ -1,6 +1,7 @@
 ---
 created: 2025-11-27
-last-modified: 2025-11-27
+last-modified: 2025-12-04
+title: Cultural Hegemony
 ---
 > [!warning] warning
 > this note is a stub needs expanding

@@ -1,8 +1,7 @@
 ---
 created: 2025-12-01
-last-modified: 2025-12-02
+last-modified: 2025-12-04
 ---
-
 relaxed, cozy, quaint:\
 modern “middle-class/biourgeois” setting\
 
@@ -10,8 +9,12 @@ every stanza ends with a full stop except stanza 5\
 apostrophe: when the speaker directly addresses the reader\
 → drawing your sympathy
 
+- It is a loving relationship
+- The speaker does occupy a stereotypical wifely role
+- even this doesn’t work out: “lack of thought for me” “selfishness, greed”
 
-
+symbolic position of many wives\
+Midas forgot his wife
 
 
 I was just curious so I highlighted every word related to shiny, gold, yellow etc.
@@ -67,7 +70,7 @@ the kiss that would turn my lips to a work of art.
 
 And who, when it comes to the crunch, can live
 with a ==heart of gold==? That night, I dreamt I bore
-his child, its perfect ore limbs, its little tongue
+his child, its perfect ==ore== limbs, its little tongue
 like a precious latch, its ==amber== eyes
 holding their pupils like flies. My dream milk
 burned in my breasts. I woke to the streaming ==sun==.

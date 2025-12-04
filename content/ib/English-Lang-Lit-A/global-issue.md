@@ -1,6 +1,6 @@
 ---
 created: 2025-11-27
-last-modified: 2025-11-27
+last-modified: 2025-12-04
 title: What is a "global issue"?
 ---
 > [!warning] warning
