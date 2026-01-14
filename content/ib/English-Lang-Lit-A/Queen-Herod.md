@@ -1,11 +1,11 @@
 ---
 created: 2025-11-25
-last-modified: 2025-11-27
+last-modified: 2026-01-14
 ---
 #### Context
 King Herod\
 Matthew 2\
-Judea\
+Judea\0
 Christmas: birth of Jesus -> threat to his power\
 the three wise men follow the star to Betlehem\
 --> they had a dream and avoided king Herod\

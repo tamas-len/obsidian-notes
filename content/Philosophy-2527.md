@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2025-11-27
+last-modified: 2026-01-14
 cssclasses:
 ---
 Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account\
@@ -16,8 +16,10 @@ done so far:
 
 ## EXAM TIPS
 
-[[Paper-1-Section-A]]
-[[philo_essay|Essay Structure]]
+[[Paper-1-Section-A]]\
+[[philo_essay|Essay Structure]]\
+3-4 philosophers 2 is too little 4 is too much except if you know a lot about them and can be very niche and specific\
+use i statements\
 
 ## 4. PERSONHOOD
 
@@ -37,3 +39,8 @@ to do:\
 
 remake the core theme revision document\
 remake the revision table, organize into notes, have a map for it
+
+[[Meditations-1]]\
+[[Meditations-2]]\
+[[Meditations-3]]\
+[[Meditations-4]]
