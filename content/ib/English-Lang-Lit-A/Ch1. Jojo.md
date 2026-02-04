@@ -24,3 +24,17 @@ opening\
 - “reported speech” of animals
 	- not understanding
 	- does he *actually* hear it?
+	- is he trying to rationalize it to us?
+	- child?
+	- supernatural?
+	- a way to make sense?
+strange patterns
+
+first person, multi-layered narration\
+only Jojo, but perspective of animals, perspective of Pop, etc.\
+non-linear narration\
+colloquial language - write the way people actually speak\
+vernacular - local accents/patterns
+
+a child trying to process and understand complexity\
+fast-paced, short sentences
