@@ -24,6 +24,10 @@ What [[global-issue]] does each of these works comment on?
 –> take these, and use it to connect a literary to a non-literary work
 
 
+### Sing, Unburied, Sing - Jesmyn Ward
+
+[[Ch1. Jojo]]
+
 ### Jessica Valenti
 
 [[Valenti|Valenti Rape Culture Article]]
