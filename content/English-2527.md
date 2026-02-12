@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-02-04
+last-modified: 2026-02-12
 ---
 ### Carol Ann Duffy
 
@@ -27,6 +27,8 @@ What [[global-issue]] does each of these works comment on?
 ### Sing, Unburied, Sing - Jesmyn Ward
 
 [[Ch1. Jojo]]
+[[Ch2.Leonie]]
+[[Ch.3.Jojo]]
 
 ### Jessica Valenti
 
