@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-02-12
+last-modified: 2026-02-16
 ---
 ### Carol Ann Duffy
 
@@ -28,7 +28,7 @@ What [[global-issue]] does each of these works comment on?
 
 [[Ch1. Jojo]]\
 [[Ch2.Leonie]]\
-[[Ch.3.Jojo]]
+[[Ch3.Jojo]]
 
 ### Jessica Valenti
 

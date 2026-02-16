@@ -1,6 +1,6 @@
 ---
 created: 2026-02-04
-last-modified: 2026-02-04
+last-modified: 2026-02-16
 ---
 Who is Jojo?\
 My understanding od the world vs. Jojo’s\
@@ -11,7 +11,7 @@ family - children + parents\
 relationship - government\
 father figures
 
-Jojo - 30y/o\
+Jojo - 13y/o\
 Kayla - 3y/o
 Pop - grandfather
 

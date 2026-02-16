@@ -1,6 +1,6 @@
 ---
 created: 2026-02-11
-last-modified: 2026-02-12
+last-modified: 2026-02-16
 ---
 mix of genres:
 - coming of age, - loss of innocence
@@ -17,6 +17,6 @@ Why is the story told in non-chronological order but in small bits of informatio
 Meth lab: not a safe place
 
 Why does Leonie bring the kids?\
-How des Misty show the duality of the South?
+How does Misty show the duality of the South?
  - Jojo + Leonie
  - little white boy, “rifle”, “Get out”
