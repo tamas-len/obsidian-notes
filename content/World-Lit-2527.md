@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2025-11-26
+last-modified: 2026-02-17
 ---
 
 Some notes from when I used to take notes
@@ -9,3 +9,5 @@ Some notes from when I used to take notes
 [[0.2-Continuity-of-Parks]]
 
 [[The-Outsider]]
+
+[[Antigone]]
