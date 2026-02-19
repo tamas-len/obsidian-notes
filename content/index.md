@@ -23,3 +23,6 @@ idk about math and physics, would be nice but difficult to digitalize
 
 
 [[guide|Guide to help writing and formatting notes]]
+
+
+[[Magyar]]
