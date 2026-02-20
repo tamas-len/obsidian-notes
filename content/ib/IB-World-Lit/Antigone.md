@@ -1,6 +1,6 @@
 ---
 created: 2026-02-16
-last-modified: 2026-02-17
+last-modified: 2026-02-20
 ---
 **Hubrys** - offense (to the gods) - arrogance\
 **Hamartia** - sin that originates the tragedy (fatal mistake)
