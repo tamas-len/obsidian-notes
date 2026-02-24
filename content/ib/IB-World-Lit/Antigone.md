@@ -1,9 +1,10 @@
 ---
 created: 2026-02-16
-last-modified: 2026-02-21
+last-modified: 2026-02-24
 ---
 **Hubrys** - offense (to the gods) - arrogance\
 **Hamartia** - sin that originates the tragedy (fatal mistake)
+**Destiny**
 
 ‘The Persians’ - it portrayed a real event → the war against Persians
 - the Persians thought they fad won - BUT!: the Athenian army was waiting for them
@@ -32,3 +33,35 @@ Leaders
 Priest → rites → the sacrifice of a goat - tragoidia (screaming of the goat)
 
 Citizens
+
+
+## Structure
+
+1. Prologue
+2. Parodos
+3. First Episode
+4. First Stasimon
+5. (repeats)
+6. Exodus
+
+### The Three Theban Plays
+(Thebes)
+
+Oedipus - common character in all three plays\
+- the oracle gave a prophecy to his father
+- “Your son will destroy your power”
+–> Oedipus is sent to the countryside and is raised by the family\
+–> He grows up and learns about the prophecy, leaving his home to avoid killing his foster parents (who he believes to be his parents)\
+–> he meets a carriage with influential people and kills a man (who happens to be his father)
+
+There is a plague caused by a sphynx → riddle (enigma) → Oedipus solves it\
+goes to Thebes and becomes king for saving them\
+becomes king and marries the queen (his mother, unknowingly) → grows a family
+
+> [!danger] this is called..
+> incest
+
+Oedipus as a new king wants to know what happened to the king\
+Learns the truth to everything and cannot bear it, so he blinds himself
+
+Among his children are Ismene, and Antigone → doomed from the start, destined to suffer
