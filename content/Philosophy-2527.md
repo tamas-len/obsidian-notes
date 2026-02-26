@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-02-04
+last-modified: 2026-02-26
 cssclasses:
 ---
 Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account\
@@ -45,3 +45,9 @@ remake the revision table, organize into notes, have a map for it
 [[Meditations-3]]\
 [[Meditations-4]]\
 [[Meditations-5]]
+
+
+## Notes for my Philo IA
+
+[[Philosophy IA 2027]]
+[[Aquinas]]
