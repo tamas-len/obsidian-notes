@@ -1,6 +1,7 @@
 ---
 created: 2025-11-27
-last-modified: 2025-11-27
+last-modified: 2026-02-26
+title: Obsidian Formatting
 ---
 > [!warning] warning
 > this note is a stub needs expanding
