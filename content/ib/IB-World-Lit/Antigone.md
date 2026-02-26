@@ -2,6 +2,8 @@
 created: 2026-02-16
 last-modified: 2026-02-26
 ---
+## Introduction to the topic, ancient greece
+
 **Hubrys** - offense (to the gods) - arrogance\
 **Hamartia** - sin that originates the tragedy (fatal mistake)
 **Destiny**
@@ -35,7 +37,7 @@ Priest → rites → the sacrifice of a goat - tragoidia (screaming of the goat)
 Citizens
 
 
-## Structure
+## Structure (of a greek play)
 
 1. Prologue
 2. Parodos
@@ -44,8 +46,8 @@ Citizens
 5. (repeats)
 6. Exodus
 
-### The Three Theban Plays
-(Thebes)
+### The Three Theban Plays, Oedipus
+(Thebes, Sophocles)
 
 Oedipus - common character in all three plays\
 - the oracle gave a prophecy to his father
@@ -68,11 +70,20 @@ Learns the truth to everything and cannot bear it, so he blinds himself
 
 Among his children are Ismene, and Antigone → doomed from the start, destined to suffer
 
+## ANTIGONE
+
+### Prologue
+
+Antigone’s [[monologue]]:
+ - justice
+ - grief
+ - pain
+
 
 ---
 ### words, definitions
 
-**Parricide** - killing parents
+**Parricide** - killing parents\
 **Magnicide** - killing someone in power, like the king
 
 [^1]: Hamartia - fatal mistake, sin originating the tragedy
