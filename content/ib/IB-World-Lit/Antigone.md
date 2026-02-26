@@ -1,6 +1,6 @@
 ---
 created: 2026-02-16
-last-modified: 2026-02-24
+last-modified: 2026-02-26
 ---
 **Hubrys** - offense (to the gods) - arrogance\
 **Hamartia** - sin that originates the tragedy (fatal mistake)
@@ -61,7 +61,18 @@ becomes king and marries the queen (his mother, unknowingly) → grows a family
 > [!danger] this is called..
 > incest
 
+Important, because incest it is Hamartia[^1], leading to Antigone being destined to suffer
+
 Oedipus as a new king wants to know what happened to the king\
 Learns the truth to everything and cannot bear it, so he blinds himself
 
 Among his children are Ismene, and Antigone → doomed from the start, destined to suffer
+
+
+---
+### words, definitions
+
+**Parricide** - killing parents
+**Magnicide** - killing someone in power, like the king
+
+[^1]: Hamartia - fatal mistake, sin originating the tragedy
