@@ -4,24 +4,24 @@ last-modified: 2026-02-26
 ---
 ### notes
 
-to do:
+to do:\
 need to find real life examples
 
-decide on 3-4 points / philosophers,
-then find examples,
-outline all paragraphs and their order,
+decide on 3-4 points / philosophers,\
+then find examples,\
+outline all paragraphs and their order,\
 then type text into document
 
 
-how to build a paragraph:
-thesis
-how it links to stimulus
-**real life example**
+how to build a paragraph:\
+thesis\
+how it links to stimulus\
+**real life example**\
 why it makes sense/why it doesn‘t/counterargument
 ### related
 
-[[Aquinas]]
-[[Natural law theory]]
-[[Thomas Hobbes|Hobbes]]
-[[Friedrich Nietzsche]]
+[[Aquinas]]\
+[[Natural law theory]]\
+[[Thomas Hobbes|Hobbes]]\
+[[Friedrich Nietzsche]]\
 [[Herd morality]]

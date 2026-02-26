@@ -49,5 +49,5 @@ remake the revision table, organize into notes, have a map for it
 
 ## Notes for my Philo IA
 
-[[Philosophy IA 2027]]
+[[Philosophy IA 2027]]\
 [[Aquinas]]

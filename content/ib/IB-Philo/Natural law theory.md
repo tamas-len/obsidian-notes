@@ -41,6 +41,6 @@ Even plants and non human animals can do it\
 The whole premise fails.
 
 ##### **Is-ought problem:**
-[[David Hume|Hume]]: *It’s fallacious to assume that just because something is a certain way, that means that it ought to be that way.*
- –> this is what natural law theory does though, we see that creatures strive to survive, therefore have strong survival instincts - but is it ought to be that way?
+[[David Hume|Hume]]: *It’s fallacious to assume that just because something is a certain way, that means that it ought to be that way.*\
+ –> this is what natural law theory does though, we see that creatures strive to survive, therefore have strong survival instincts - but is it ought to be that way?\
  –> striving for my survival could cause me to do things which seem immoral in the eyes of other people

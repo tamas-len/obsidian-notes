@@ -8,9 +8,9 @@ last-modified: 2026-02-26
 
 ### related
 
-[[On the Genealogy of Morality]]
-[[Beyond Good and Evil]]
-[[The Will to Power]]
-[[Ecce Homo]]
-[[Thus Spoke Zarathustra]]
+[[On the Genealogy of Morality]]\
+[[Beyond Good and Evil]]\
+[[The Will to Power]]\
+[[Ecce Homo]]\
+[[Thus Spoke Zarathustra]]\
 [[The Dawn]]
