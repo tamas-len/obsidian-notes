@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-02-26
+last-modified: 2026-03-16
 ---
 ### Carol Ann Duffy
 
@@ -26,14 +26,21 @@ What [[global-issue]] does each of these works comment on?
 
 ### Sing, Unburied, Sing - Jesmyn Ward
 
+[[S.U.S.]]
+
 [[Ch1. Jojo]]\
 [[Ch2.Leonie]]\
 [[Ch3.Jojo]]\
 Ch4.\
-[[Ch5.Jojo]]
-[[Ch6.7.Richie.Leonie]]
-[[Ch8.9.Jojo.Richie]]
+[[Ch5.Jojo]]\
+[[Ch6.7.Richie.Leonie]]\
+[[Ch8.9.Jojo.Richie]]\
+Ch10.\
+[[Ch11.Jojo]]\
+[[Ch12.13]]\
+[[Ch14.15]]
 
+[[Underworlds-SUS_Inferno_Odyssey]]
 ### Jessica Valenti
 
 [[Valenti|Valenti Rape Culture Article]]

@@ -1,8 +1,13 @@
 ---
 created: 2026-02-16
-last-modified: 2026-02-26
+last-modified: 2026-03-16
 ---
 ## Introduction to the topic, ancient greece
+
+### words, definitions
+
+**Parricide** - killing parents\
+**Magnicide** - killing someone in power, like the king
 
 **Hubrys** - offense (to the gods) - arrogance\
 **Hamartia** - sin that originates the tragedy (fatal mistake)
@@ -79,11 +84,36 @@ Antigone’s [[monologue]]:
  - grief
  - pain
 
+Antigone vs Ismene
+
+Antigone
+- wants to bury Polynices, law of God
+- brave
+- close-minded, determined
+- angry
+
+Ismene
+- is aware of the decree that forbids it, law of Human
+- worried
+- thoughtful
+- conforming to the rules
+
+issue raised - position of women in society (line 74)
+
+### Parodos
+
+Chorus
+- retelling of the battle
+- an explanation of the outcome - the death of the brothers - Eteocles, Polynices
+Creon and the Leader (someone representing the chorus)\
+–> Creon monologue - states that only experience would give him value)\
+priority: first your country, then your own people –> philos (connection, friends, love etc.)
+
+–> destiny of brothers - one is honoured, other is left to be consumed\
+burial keeps the body itself safe, and also belief in a safe destiny for the deceased (afterlife type shit)
+
+
 
 ---
-### words, definitions
-
-**Parricide** - killing parents\
-**Magnicide** - killing someone in power, like the king
 
 [^1]: Hamartia - fatal mistake, sin originating the tragedy
