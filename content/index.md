@@ -15,14 +15,15 @@ Work in progress\
 Other Notes, “under construction”
 
 [[Biology-2527]] \[canceled btw, I dropped bio]\
-[[English-2527]] \[most detailed actually]
+[[English-2527]] \[most detailed actually]\
 [[Hungarian-2527]] \[i have like two notes]
 
 i also plan doing [[World-Lit-2527|world lit notes]], digitalizing the boards and making some sense out of them
 
-[[World-Lit-2527]] \[i am taking notes in class from 2nd term]
+[[World-Lit-2527]] \[i am taking notes in class from 2nd term] - i stopped around march-april
 
-idk about math and physics, would be nice but difficult to digitalize
+idk about math and physics, would be nice but difficult to digitalize\
+–> planning revision sheets instead
 
 
 [[guide|Guide to help writing and formatting notes in obsidian]]
