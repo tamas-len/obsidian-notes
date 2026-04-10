@@ -1,11 +1,12 @@
 ---
 created: 2025-11-25
-last-modified: 2026-02-26
+last-modified: 2026-04-10
 cssclasses:
 ---
 Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account\
 USE the website --> tips, examples, guides, handouts\
-In my notes on this website you can find reworked handouts for better understanding
+In my notes on this website you can find reworked handouts for better understanding instead of AI slop
+![[me.png]]
 
 
 > [!danger] wait!
@@ -18,8 +19,10 @@ done so far:
 
 [[Paper-1-Section-A]]\
 [[philo_essay|Essay Structure]]\
+[[Joni_s_Tips|Joni's Tips On Writing Essays in Term 2]]\
+
 3-4 philosophers 2 is too little 4 is too much except if you know a lot about them and can be very niche and specific\
-use i statements\
+use “I” statements\
 
 ## 4. PERSONHOOD
 
@@ -35,16 +38,40 @@ use i statements\
 
 
 
-to do:\
+> [!warning] to do
+> to do:\
+>
+> remake the core theme revision document\
+   remake the revision table, organize into notes, have a map for it
 
-remake the core theme revision document\
-remake the revision table, organize into notes, have a map for it
+
+## MEDITATIONS
 
 [[Meditations-1]]\
 [[Meditations-2]]\
 [[Meditations-3]]\
 [[Meditations-4]]\
 [[Meditations-5]]
+
+## 7. ETHICS
+
+### Normative Ethics
+
+1. Ethical Egoism
+	1. whatever is good for me is right
+2. Consequentialism / Teleological
+	1. focus on consequences
+	2. utilitarianism
+		1. act utilitarianism
+		2. rule utilitarianism
+3. Deontological theory
+	1. divine command theory
+	2. Kant’s categorical imperative (“what if everyone did this?”)
+4. Virtue ethics
+5. Emotivism (A.J. Ayer)
+	1. moral judgement are emotional
+	2. “I like...” / “I don’t like…”
+	3. metaethics
 
 
 ## Notes for my Philo IA
