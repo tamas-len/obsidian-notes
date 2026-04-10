@@ -1,6 +1,6 @@
 ---
 created: 2026-02-25
-last-modified: 2026-02-26
+last-modified: 2026-04-10
 ---
 ### notes
 
@@ -25,3 +25,21 @@ why it makes sense/why it doesn‘t/counterargument
 [[Thomas Hobbes|Hobbes]]\
 [[Friedrich Nietzsche]]\
 [[Herd morality]]
+
+
+
+### feedback
+
+- stimulus –> springboard to more abstract conceptual thinking, then come back\
+- Kant as a counterargument\
+- define fear?
+
+
+→ A good rule: if a sentence has more than two clauses, split it.
+→ front-load attribution: "Nietzsche argues that..." vs. "I contend that..."
+
+HOW DO I CRITICALLY EVALUATE??
+
+address whether moral values formed through fear are _real_ moral values at all — this touches on moral realism vs. anti-realism
+
+fear can both *create* moral frameworks (Hobbes) and _corrupt_ them (Nietzsche), and the difference depends on whether rationality remains intact
