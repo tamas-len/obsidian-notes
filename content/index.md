@@ -26,3 +26,10 @@ idk about math and physics, would be nice but difficult to digitalize
 
 
 [[guide|Guide to help writing and formatting notes in obsidian]]
+
+
+
+development ideas:
+- comments
+- alternative notes
+- printable websites, or md to pdf converter to download or directly send pdf to print
