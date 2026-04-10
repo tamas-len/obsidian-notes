@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-03-16
+last-modified: 2026-04-10
 ---
 ### Carol Ann Duffy
 
@@ -41,11 +41,22 @@ Ch10.\
 [[Ch14.15]]
 
 [[Underworlds-SUS_Inferno_Odyssey]]
+
+### 13th - NL BOW
+
+13th + SUS –> impacts of generational trauma, justice system, racial discrimination, substance use/abuse
+
+13th –> 13th amendment of US constitution
+
+[[13th]]
 ### Jessica Valenti
 
 [[Valenti|Valenti Rape Culture Article]]
 
 
+### Film Analysis
+
+[[Donnie Darko]]
 
 [[Kendrick-Lamar-Super-Bowl]]
 
@@ -57,3 +68,7 @@ Ch10.\
 ### Feedbacks
 
 [[Paper-1-feedback|General Feedbacks for Paper 1]]
+
+
+When writing, read it out aloud to someone and tell them to stop you when they get lost. Then you know it doesn’t make sense. Without looking, just by listening they should be able to tell your main points and supporting points.
+→ this is also usable for IO
