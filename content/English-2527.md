@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-04-10
+last-modified: 2026-05-02
 ---
 ### Carol Ann Duffy
 
@@ -38,7 +38,9 @@ Ch4.\
 Ch10.\
 [[Ch11.Jojo]]\
 [[Ch12.13]]\
-[[Ch14.15]]
+[[Ch14.15]]\
+((maybe i should rewrite all these chapters into one page with headers and subtitles…))\
+[[SUS Revision]]
 
 [[Underworlds-SUS_Inferno_Odyssey]]
 
@@ -72,3 +74,7 @@ Ch10.\
 
 When writing, read it out aloud to someone and tell them to stop you when they get lost. Then you know it doesn’t make sense. Without looking, just by listening they should be able to tell your main points and supporting points.
 → this is also usable for IO
+
+[[Paper 1 text types]]
+
+[[EOY Exams]]

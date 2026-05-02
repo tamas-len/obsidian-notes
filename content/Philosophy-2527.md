@@ -1,6 +1,6 @@
 ---
 created: 2025-11-25
-last-modified: 2026-04-10
+last-modified: 2026-05-02
 cssclasses:
 ---
 Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account\
@@ -20,6 +20,7 @@ done so far:
 [[Paper-1-Section-A]]\
 [[philo_essay|Essay Structure]]\
 [[Joni_s_Tips|Joni's Tips On Writing Essays in Term 2]]\
+[[Explain_Evaluate]]
 
 3-4 philosophers 2 is too little 4 is too much except if you know a lot about them and can be very niche and specific\
 use “I” statements\
