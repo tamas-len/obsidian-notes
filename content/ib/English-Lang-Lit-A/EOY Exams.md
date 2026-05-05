@@ -1,10 +1,10 @@
 ---
 created: 2026-04-20
-last-modified: 2026-05-02
+last-modified: 2026-05-05
 ---
 paper
 - 1h15min non-lit text, guided analysis
-	- hw: paper 1 textbook ==insert here==
+	- hw: paper 1 textbook
 - 45min “mini-essay” “paper 2 style”
 	- 2 lit (Duffy - book of poems & Ward - novel)
 	- Duffy or Ward
@@ -13,7 +13,7 @@ paper
 		- intro
 		- 2-3 PEELs
 		- conclusion
-	- hw: read a lit essay example ==insert here==
+	- hw: read a lit essay example
 
 Duffy
 - aside from the old essay we wrote also look at padlet

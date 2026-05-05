@@ -1,8 +1,13 @@
 ---
 created: 2025-11-25
-last-modified: 2026-05-02
+last-modified: 2026-05-05
 cssclasses:
 ---
+
+[[philosophy building blocks]]
+
+
+
 Log in to [this website](https://sites.google.com/uwcad.it/philosophy/) with your uwcad account\
 USE the website --> tips, examples, guides, handouts\
 In my notes on this website you can find reworked handouts for better understanding instead of AI slop

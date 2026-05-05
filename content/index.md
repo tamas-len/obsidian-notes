@@ -20,7 +20,7 @@ Other Notes, “under construction”
 
 i also plan doing [[World-Lit-2527|world lit notes]], digitalizing the boards and making some sense out of them
 
-[[World-Lit-2527]] \[i am taking notes in class from 2nd term] - i stopped around march-april
+[[World-Lit-2527]] \[i am taking notes in class from 2nd term]
 
 idk about math and physics, would be nice but difficult to digitalize\
 –> planning revision sheets instead
